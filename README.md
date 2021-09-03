@@ -1,2 +1,2 @@
 # restaurant_2
-Web-design for a luxurious, non-existent restaurant in Nida, Lithuania, called "2"
+Website for a luxurious, restaurant in Nida, Lithuania, called "2"
